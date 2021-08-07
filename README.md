@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @heemysong
+- 👋 Hi, I’m @songheemi
 - 👀 I’m interested in coding and design
-- 🌱 I’m currently learning UI design
+- 🌱 I’m currently learning UI design, HTML, CSS, and JavaScript
 
 
 <!---
